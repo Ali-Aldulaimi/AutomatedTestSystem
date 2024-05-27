@@ -1,6 +1,6 @@
 ### Automated Test System for AQ-G25x Protection Relays
 ## Project Overview
-This repository houses the Automated Test System designed for the thorough testing and evaluation of AQ-G25x protection relays manufactured by Arcteq Oy. The project was undertaken by Mohamed Mahmud Ali during his practical training period. It encompasses the development and implementation of a sophisticated testing framework using a Jenkins Pipeline to manage and automate tasks across various testing stages.
+This repository houses the Automated Test System designed for the thorough testing and evaluation of AQ-G25x protection relays manufactured by Arcteq Oy. It encompasses the development and implementation of a sophisticated testing framework using a Jenkins Pipeline to manage and automate tasks across various testing stages.
 
 
 ## System Description
@@ -36,7 +36,8 @@ The testing scripts themselves are primarily written using the Robot Framework, 
 
 In conjunction with the Robot Framework, Python scripts are employed to handle more complex logic and interactions. These scripts perform tasks such as data manipulation, setup configurations, and direct hardware interfacing with the protection relays. For interface simulation and control, tools like SikuliX are used. SikuliX integrates screen-based visual recognition with automated GUI operations, enabling the system to interact with the graphical user interfaces of the tools and devices involved in the testing setup.
 
-Hardware interfacing is another critical component of the automated system. Devices like LabJack and relay boards are used to simulate and control electrical signals and power flows, mimicking real-world electrical disturbances and conditions. This setup ensures that the AQ-G257 relays are tested under conditions that closely resemble their operational environments.
+Hardware interfacing is another critical component of the automated system. Devices like LabJack and relay boards are used to simulate and control electrical signals and power flows, mimicking real-world electrical disturbances and conditions. This setup ensures that the AQ-G25x
+relays are tested under conditions that closely resemble their operational environments.
 
 The culmination of this orchestrated effort is a robust, reliable, and highly efficient testing system that not only reduces the time required for testing but also significantly enhances the accuracy and reliability of the tests. By integrating hardware and software testing within a unified framework, the project delivers a comprehensive assessment of the protection relays’ performance, ensuring they meet all specified requirements and behave as expected in the field.
 
