@@ -1,5 +1,5 @@
-### Automated Test System for AQ-G257 Protection Relays
-Project Overview
+### Automated Test System for AQ-G25x Protection Relays
+## Project Overview
 This repository houses the Automated Test System designed for the thorough testing and evaluation of AQ-G25x protection relays manufactured by Arcteq Oy. The project was undertaken by Mohamed Mahmud Ali during his practical training period. It encompasses the development and implementation of a sophisticated testing framework using a Jenkins Pipeline to manage and automate tasks across various testing stages.
 
 
