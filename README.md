@@ -18,6 +18,7 @@ This automated test system is specifically tailored for AQ-G25x relays which pla
 - CAD Software: Employed for designing the schematics of the project's hardware setup.
 - Blender: Used for 3D modeling of test setups and rack designs to provide a visual representation of physical configurations.
 ## Objectives
+- Create a network using HP-aruba to communciate with front and back panels of the DUT. 
 - Automated Testing: Streamline the testing process to enhance the efficiency and reproducibility of tests.
 - Efficient Build Process: Ensure the reliability of builds through automation.
 - Deployment Preparation: Automate the configuration and packaging of software components for deployment.
