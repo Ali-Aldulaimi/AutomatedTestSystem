@@ -27,5 +27,6 @@ This automated test system is specifically tailored for AQ-G25x relays which pla
 - Detailed Reporting and Documentation: Generate comprehensive reports detailing the outcomes and insights from each test stage.
 - Create a I/O schematics of the project.
 ## Installation and Usage
+![Project Diagram](3D design/FrontView.png "Project Diagram")
 Instructions for setting up the test environment, running tests, and interpreting results are provided in specific documentation within the repository. These instructions cover the necessary software installations, hardware setup, and step-by-step guides for utilizing the test system effectively.
 
